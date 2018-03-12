@@ -12,7 +12,7 @@ Time spent: 10 hours spent in total
     - Tested in version: 4.2
     - Fixed in version: 4.6.1
   - [ ] GIF Walkthrough: 
-
+<a href="https://github.com/ClaytonRichardson/CodepathWeek7/blob/master/firstvuln.gif">
   - [ ] Steps to recreate: 
   1. Create a new post
   2. add malicious tags in title of new post
