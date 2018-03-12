@@ -25,6 +25,7 @@ Time spent: 10 hours spent in total
     - Tested in version: 4.2
     - Fixed in version: 4.3.1
   - [ ] GIF Walkthrough: 
+  ![Alt Text](https://github.com/ClaytonRichardson/CodepathWeek7/blob/master/secondvuln.gif)
   - [ ] Steps to recreate: 
   1. Open a post made by any user
   2. proced to leave a comment consisiting of <svg onload=prompt(document.cookie)>
@@ -37,6 +38,7 @@ Time spent: 10 hours spent in total
     - Tested in version: 4.2
     - Fixed in version: 4.2.3
   - [ ] GIF Walkthrough: 
+  ![Alt Text](https://github.com/ClaytonRichardson/CodepathWeek7/blob/master/thirdvuln.gif)
   - [ ] Steps to recreate: 
   1. Make a post with the description being <ahref="[caption code=">]</a><a title="onmouseover=alert('XSS') ">link</a>
   - [ ] Affected source code:
